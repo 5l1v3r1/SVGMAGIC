@@ -1,1 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="x"><listener event="load" handler="#y" xmlns="http://www.w3.org/2001/xml-events" observer="x"/><handler id="y">alert(1)</handler></svg>
+<svg xmlns="http://www.w3.org/2000/svg" onload="alert(document.domain)"/>
