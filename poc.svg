@@ -1,1 +1,1 @@
-<svg onload="javascript:alert(1)" xmlns="http://www.w3.org/2000/svg"></svg>
+<svg xml:base="data:text/html,<script>confirm(1)</script>"><a xlink:href="#"><circle r="40"></circle></a></svg>
